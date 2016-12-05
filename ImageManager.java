@@ -106,7 +106,7 @@ public class ImageManager
         }
         in.close();
         out.close();
-    }
+    }//
 
 
 }
